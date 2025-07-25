@@ -1,3 +1,4 @@
-skck-network/fabric-samples/
-skck-network/fabric-samples/
+skck-network/fabric-samples/*
+!skck-network/fabric-samples/chaincode/
+!skck-network/fabric-samples/chaincode/**
 
