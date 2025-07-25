@@ -1,4 +1,4 @@
-# 🚔 SKCK Blockchain System - Polres Klungkung
+# 🚔 SKCK Blockchain System 
 
 ![Hyperledger Fabric](https://img.shields.io/badge/Blockchain-Hyperledger%20Fabric-blue?style=flat-square)
 ![IPFS](https://img.shields.io/badge/Storage-IPFS-purple?style=flat-square)
@@ -90,7 +90,7 @@ npm start
 
 ## 📷 Tampilan Sistem
 
-> _(Tambahkan screenshot atau diagram di bawah ini jika ada)_
+
 
 ---
 
