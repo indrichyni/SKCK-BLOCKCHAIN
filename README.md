@@ -2,7 +2,6 @@
 
 ![Hyperledger Fabric](https://img.shields.io/badge/Blockchain-Hyperledger%20Fabric-blue?style=flat-square)
 ![IPFS](https://img.shields.io/badge/Storage-IPFS-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 > **Sistem pengelolaan Surat Keterangan Catatan Kepolisian (SKCK)** berbasis **Blockchain Hyperledger Fabric** dan **IPFS**, studi kasus di Polres Klungkung. Mendukung tiga peran: **Pemohon**, **Kepolisian**, dan **Perusahaan/Verifier**.
 
